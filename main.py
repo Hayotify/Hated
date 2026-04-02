@@ -1,3 +1,5 @@
+from host import keep_alive
+keep_alive()
 import asyncio
 import os
 import sys
